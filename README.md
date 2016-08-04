@@ -2,7 +2,7 @@
 
 ![A Fernvale board fitted in a FDPC-01 case](/images/17-completedAssembly.JPG)
 
-The [FDPC-01 kit] is a simple but elegant case based on the "[sick of beige](http://dangerousprototypes.com/docs/Sick_of_Beige_basic_case_v1)" design and is intended to help keep things neat and protected whilst using the Fernvale board. It can be bought from [Ground Electronics](http://groundelectronics.com).
+The FDPC-01 kit is a simple but elegant case based on the "[sick of beige](http://dangerousprototypes.com/docs/Sick_of_Beige_basic_case_v1)" design and is intended to help keep things neat and protected whilst using the Fernvale board. It can be bought from [Ground Electronics](http://groundelectronics.com).
 
 ## Repository contents
 
