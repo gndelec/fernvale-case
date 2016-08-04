@@ -1,6 +1,6 @@
 # Fernvale Open Case Kit
 
-![A Fernvale board fitted in a FDPC-01 case](/images/17-completedAssembly.JPG)
+![A Fernvale board fitted in a FDPC-01 case](/images/18-actuallyCompletedAssembly.JPG)
 
 The FDPC-01 kit is a simple but elegant case based on the "[sick of beige](http://dangerousprototypes.com/docs/Sick_of_Beige_basic_case_v1)" design and is intended to help keep things neat and protected whilst using the Fernvale board. It can be bought from [Ground Electronics](http://groundelectronics.com).
 
@@ -108,7 +108,7 @@ Nylon round spacers included with the Fernvale kit are also used:
 
 18 Add the remaining M3 x 20mm nylon hex spacers to the machine screws.
 
-![Adding M3 x 20mm machine screws](/images/17-completedAssembly.JPG)
+![Adding M3 x 20mm machine screws](/images/18-actuallyCompletedAssembly.JPG)
 
 19 Add the four M3 x 8mm steel machine screws through the acrylic top, tightening them into the M3 x 10mm steel hex standoffs.
 
